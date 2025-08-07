@@ -1,4 +1,7 @@
 # Clases 4geeks
+## Instalación
+- Version de Pyhton: 3.12.1
+- Instalar librerias: `pip install -r `
 ## Comandos
 - Para mostrar los archivos en el directorio actual: `ls`
 - Para mostrar los archivos incluido los ocultos: `ls -a`
